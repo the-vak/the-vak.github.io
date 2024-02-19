@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Invocation"
-by: Vyom A. Shah
+by: Dāśarathicaraṇopāsaka
 date:   2024-02-18 17:07:32 +0530
-categories: Saṃskṛta Prākṛta Praise Sarasvatī
+categories: Blog
+tags: Saṃskṛta Sarasvatī Praise
 ---
 
 > **श्रीरामायणभारतबृहत्कथानां कवीन्नमस्कुर्मः।** <br>
