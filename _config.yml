@@ -55,6 +55,9 @@ google_analytics:
 goatcounter:
   id: # fill in your Goatcounter ID
 
+plugins:
+  - jekyll-seo-tag
+  
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
