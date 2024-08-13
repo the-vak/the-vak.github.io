@@ -3,7 +3,7 @@ layout: post
 title:  "Trivikramabhaṭṭa and his verses"
 by: dāśarathicaraṇopāsaka
 date:   2024-04-02 22:20:32 +0530
-categories: saṃskṛta digital-text
+categories: saṃskṛta digital_text
 tags:  Saṃskṛta anthologies collection
 ---
 
